@@ -13,9 +13,9 @@ User Story:
 * There will be a total of 3 questions.
 * On question #3 the user sees a submit button.
 * Once they submit they get a message with their results,
- 1. If they got 3/3 right then the message should reflect that.
-2. If they get 2/3 or 1/3 they will get a different message that asks them to keep practicing.
-3. If they get 0/3 then they should get a different message (can be anything you want).
+   1. If they got 3/3 right then the message should reflect that.
+   2. If they get 2/3 or 1/3 they will get a different message that asks them to keep practicing.
+   3. If they get 0/3 then they should get a different message (can be anything you want).
 * The final page should have a link that allows users to restart a new quiz.
 
 Tools used,
